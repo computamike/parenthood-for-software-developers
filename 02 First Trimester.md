@@ -1,0 +1,2 @@
+# Establishing a quality based build environment.
+If you're starting out on the journey around building your own construct, then establishing good quality control is important, and if this can be enshrined into a ritual - then it becomes second nature and automatic.
